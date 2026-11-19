@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kavya-2026/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kavya-2026/DSA/tree/master/0101-symmetric-tree) |
+| [0133-clone-graph](https://github.com/kavya-2026/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kavya-2026/DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kavya-2026/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kavya-2026/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kavya-2026/DSA/tree/master/0101-symmetric-tree) |
+| [0133-clone-graph](https://github.com/kavya-2026/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kavya-2026/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/kavya-2026/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kavya-2026/DSA/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kavya-2026/DSA/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kavya-2026/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
